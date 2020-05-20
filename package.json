@@ -8,6 +8,7 @@
   },
   "author": "xeudingmiaojun",
   "license": "ISC",
+  "repository": "https://github.com/xuedingmiaojun/koa-wx-auth-demo",
   "dependencies": {
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.3.0",
